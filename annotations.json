@@ -205,4 +205,15 @@
     "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/Clinic.jpg",
     "booking_url": "https://www.zaatarwzeit.net/KU/Home"
   }
+,
+  {
+    "AnnotationType": "KOC Scrap Yard 3",
+    "latitude": 29.079989160277037, 
+    "longitude": 48.048907953843795,  
+    "video_link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/Clinic.pdf",
+    "website_url": "https://www.kockw.com/sites/EN/Pages/Default.aspx",
+    "map_url": "https://github.com/MuhammadNadeemAUM/ARapp/blob/main/Pdfdocuments/Clinic.jpg",
+    "booking_url": "https://www.zaatarwzeit.net/KU/Home"
+  }
 ]
